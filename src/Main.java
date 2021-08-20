@@ -13,9 +13,9 @@ public class Main {
         {
             bonus = 0;
         }
-        int Total = clientAccount + accountRefill + bonus;
+        int total = clientAccount + accountRefill + bonus;
 
-        System.out.println(Total);
+        System.out.println(total);
         System.out.println(bonus);
 
     }
